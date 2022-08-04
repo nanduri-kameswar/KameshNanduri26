@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KameshNanduri26
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning and Deep learning
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach me through my email
 
