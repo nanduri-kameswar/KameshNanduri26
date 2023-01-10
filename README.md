@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanduri-kameswar
+- 👋 Hi, I’m @nvssrkameswar
 - 👀 I’m interested in various technical domains
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science Projects
