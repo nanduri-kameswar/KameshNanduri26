@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nvssrkameswar
-- 👀 I’m interested in various technical domains including Data Science and Web Development
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science Domain
+- 🌱 I’m currently learning Data Engineering
 - 📫 You can reach me through my email
 
 <!---
